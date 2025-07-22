@@ -1,6 +1,8 @@
 # 📁 dashboard/
 
 This folder contains the Power BI dashboard file created from the OLA booking dataset.
+# link to access this project
+https://app.powerbi.com/view?r=eyJrIjoiMDY0N2Q4ODUtZjk1MS00NmQxLThkNDYtNjlmMTE3N2VjNzlmIiwidCI6IjhjNzhjMTIyLWY3ODEtNDUwMC05YzJhLWY2NDVhNzYyODFmNSJ9
 
 ## File Included
 
